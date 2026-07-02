@@ -1,6 +1,6 @@
-# The Second Sunrise
+# The Phoenix Sunrise
 
-Static website for The Second Sunrise, a rehabilitation psychology practice by Shalini Kumar.
+Static website for The Phoenix Sunrise, a rehabilitation psychology practice by Shalini Kumar.
 
 ## Tech Stack
 

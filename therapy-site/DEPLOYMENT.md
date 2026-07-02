@@ -44,7 +44,7 @@ The root `netlify.toml` file already sets the publish directory and headers.
 After buying the domain, add it in Netlify:
 
 1. Netlify site dashboard > `Domain management`.
-2. Add custom domain, for example `thesecondsunrise.com`.
+2. Add custom domain, for example `thephoenixsunrise.in`.
 3. Netlify will show DNS records.
 4. In GoDaddy, update either:
    - Nameservers to Netlify nameservers, or
